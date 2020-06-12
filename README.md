@@ -1,3 +1,3 @@
 # ReservasAreasBestPrice
 
-asd qwerty hakuna matata
+ASP.NET Core WEB APP developed in c#
